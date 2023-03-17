@@ -6,7 +6,6 @@ import com.gurkan.artbooktesting.api.RetrofitAPI
 import com.gurkan.artbooktesting.roomdb.Art
 import com.gurkan.artbooktesting.roomdb.ArtDao
 import com.gurkan.artbooktesting.util.Resource
-import com.gurkan.artbooktesting.util.Util.API_KEY
 import javax.inject.Inject
 
 class ArtRepository @Inject constructor(
